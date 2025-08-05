@@ -45,7 +45,7 @@ employee-salary-prediction/
 - Exploratory Data Analysis (EDA) using `Seaborn` and `Matplotlib`
 - Feature scaling using `StandardScaler`
 - Model training using **Linear Regression**
-- Performance metrics: `MAE`, `MSE`, `R² Score`
+- Performance metrics: `MAE`, `MSE`
 
 _All steps are documented in the Jupyter Notebook._
 
@@ -58,7 +58,7 @@ The **Streamlit app** allows users to:
 - Predict salary using the trained model
 - Visualize inputs and predictions with interactive charts
 - Compare predicted salary with average
-- Receive alerts for high workload and low satisfaction
+  
 
 ### 🖥️ To run the app locally:
 
@@ -102,8 +102,8 @@ _Install all dependencies using the `requirements.txt` file._
 ## 🙋‍♂️ Author
 
 **Sehran Sajad Bhat**  
-📧 your-email@example.com  
-🌐 [GitHub](https://github.com/your-username) | [LinkedIn](#)
+📧 your-sehranbhat868@gmail.com 
+🌐 [GitHub](https://github.com/Sehran-Bhat) 
 
 ---
 
