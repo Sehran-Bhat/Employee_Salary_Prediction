@@ -1,6 +1,5 @@
-
-Streamlit
-Scikit-learn
-Pandad
-Numpy
-Plotly
+streamlit
+scikit-learn
+pandas
+numpy
+plotly
